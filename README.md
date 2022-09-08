@@ -2,7 +2,7 @@
 - 👀 I’m interested in Direct3D
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on c++ / D3D projects
-- 📫 How to reach me allenvandieman@outlook.com
+- 📫 How to reach me "Coming Soon, i promise"
 
 <!---
 DaggaRoeker/DaggaRoeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
